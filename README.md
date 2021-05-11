@@ -29,7 +29,7 @@ npm -v
 
 ## Getting Started
 
-The following commands will generate a self-signed dev certificate, build the API, start a PostgreSQL container, and finally start the API and apply migrations.
+The following commands will generate a and run web application. Before this is done make sure that API is running and cofigured correctly. Api url is hardcoded in productSertcices  axios.defaults.baseURL = "http://localhost:3005/api" should be moved to env, this value should be updated based on api
 
 yarn build 
 yarn start 
