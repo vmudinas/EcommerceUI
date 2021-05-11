@@ -47,4 +47,8 @@ npm start
 Default url => http://localhost:3000/
  Api url is hardcoded in productSertcices  axios.defaults.baseURL = "http://localhost:3005/api" should be moved to env, this value should be updated based on api
 
-## Debugging
+## UI 
+Order date defaults to todays date, and can be updated. 
+We check for weekends if weekend flag is enabled and holidays. 
+![image](https://user-images.githubusercontent.com/5769233/117893271-f6b2ed00-b26e-11eb-9956-11f1d6108df8.png)
+
