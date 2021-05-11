@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+![image](https://user-images.githubusercontent.com/5769233/117894090-768d8700-b270-11eb-8083-5aad4e0b9bf6.png)
 
 
 Prerequisites
