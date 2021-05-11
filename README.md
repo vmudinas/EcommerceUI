@@ -34,7 +34,12 @@ The following commands will generate a and run web application. Before this is d
 yarn build 
 yarn start 
 
-## Or using npm 
+![image](https://user-images.githubusercontent.com/5769233/117893180-ce2af300-b26e-11eb-8a6f-3fbc2509cf1a.png)
+
+![image](https://user-images.githubusercontent.com/5769233/117893198-d97e1e80-b26e-11eb-9e49-b319e67e3464.png)
+
+
+Or using npm 
 npm i
 npm start
 
